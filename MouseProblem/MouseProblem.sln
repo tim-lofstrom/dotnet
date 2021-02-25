@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseProblem", "MouseProblem\MouseProblem\MouseProblem.csproj", "{BB7FE44A-D9F7-44B4-9F01-A526005BF7B3}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MouseProblemContent", "MouseProblem\MouseProblemContent\MouseProblemContent.contentproj", "{F0606926-6B79-43E5-A918-91ED209A0D54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7FE44A-D9F7-44B4-9F01-A526005BF7B3}.Debug|x86.ActiveCfg = Debug|x86
+		{BB7FE44A-D9F7-44B4-9F01-A526005BF7B3}.Debug|x86.Build.0 = Debug|x86
+		{BB7FE44A-D9F7-44B4-9F01-A526005BF7B3}.Release|x86.ActiveCfg = Release|x86
+		{BB7FE44A-D9F7-44B4-9F01-A526005BF7B3}.Release|x86.Build.0 = Release|x86
+		{F0606926-6B79-43E5-A918-91ED209A0D54}.Debug|x86.ActiveCfg = Debug|x86
+		{F0606926-6B79-43E5-A918-91ED209A0D54}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
